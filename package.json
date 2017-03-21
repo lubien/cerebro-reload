@@ -21,7 +21,6 @@
   "main": "dist/index.js",
   "keywords": [
     "cerebro",
-    "cerebro-plugin",
     "reload",
     "refresh",
     "vim-ftw"
